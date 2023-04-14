@@ -24,9 +24,9 @@ Site utilisé : Wikipedia
 
 • Le troisième bouton donnera des statistiques sur la taille en octets des différentes pages web
 
-`	`- Pourquoi s’intéresser à en-tête Content-Length :
+  - Pourquoi s’intéresser à en-tête Content-Length :
 
-`		`La connaissance de l'en-tête Content-Length est importante pour garantir le bon traitement des données, optimiser les performances de 		l'application, améliorer la sécurité.
+      La connaissance de l'en-tête Content-Length est importante pour garantir le bon traitement des données, optimiser les performances de 		l'application, améliorer la sécurité.
 
 • Bouton « clear » pour effacer le contenu de la fenêtre.
 
