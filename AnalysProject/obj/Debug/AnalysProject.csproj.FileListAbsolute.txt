@@ -1,0 +1,8 @@
+C:\Users\igormelnyk\source\repos\AnalysProject\obj\Debug\AnalysProject.csproj.AssemblyReference.cache
+C:\Users\igormelnyk\source\repos\AnalysProject\obj\Debug\AnalysProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\igormelnyk\source\repos\AnalysProject\obj\Debug\AnalysProject.csproj.CoreCompileInputs.cache
+C:\Users\igormelnyk\source\repos\AnalysProject\bin\Debug\AnalysProject.exe.config
+C:\Users\igormelnyk\source\repos\AnalysProject\bin\Debug\AnalysProject.exe
+C:\Users\igormelnyk\source\repos\AnalysProject\bin\Debug\AnalysProject.pdb
+C:\Users\igormelnyk\source\repos\AnalysProject\obj\Debug\AnalysProject.exe
+C:\Users\igormelnyk\source\repos\AnalysProject\obj\Debug\AnalysProject.pdb
