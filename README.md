@@ -32,7 +32,7 @@ Site utilisé : Wikipedia
 
 ———————————————————————————
 
-Tester ses propres site :
+Tester ses propres sites :
 
 ———————————————————————————
 
